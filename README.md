@@ -5,5 +5,5 @@ This notebook is my analysis to figure out the average price and average price b
 
 The biggest question is between the correlation of price to odometer reading and
 to made-of-year, which one is stronger????
-In other words, lowr odometer reading and recent model year, which one is more import
+In other words, lower odometer reading and more recent model year, which one is import
 for a better resell price? 
